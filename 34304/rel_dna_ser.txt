@@ -4,16 +4,16 @@
 # origin: http://hla.alleles.org/wmda/rel_dna_ser.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/rel_dna_ser.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
-B*;101:01;101;;;
-B*;101:02;101;;;
-B*;101:03;101;;;
-B*;107:01;107;;;
-B*;107:02:01;107;;;
-B*;107:03:01:01;107;;;
+B*;101:01;75;;;
+B*;101:02;75;;;
+B*;101:03;75;;;
+B*;107:01;12;;;
+B*;107:02:01;12;;;
+B*;107:03:01:01;12;;;
 B*;108:01;0;;;
 B*;108:02:01;0;;;
 B*;108:03:01:01;0;;;
 B*;108:04;0;;;
-B*;110:01Q;1;;;
+B*;110:01Q;0/1;;;
 B*;110:02:01;0;;;
 B*;110:03:01;0;;;
