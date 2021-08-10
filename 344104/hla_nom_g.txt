@@ -1,0 +1,7 @@
+# file: hla_nom_g.txt
+# date: 2021-05-05
+# version: IPD-IMGT/HLA 3.44.2
+# origin: http://hla.alleles.org/wmda/hla_nom_g.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom_g.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;99:99:01:01/99:99:01:02;99:99:01G
