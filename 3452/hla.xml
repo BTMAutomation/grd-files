@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
-<allele id="HLA00001" name="HLA-A*01:01" dateassigned="2005-04-29">
-    <releaseversions firstreleased="3.43.1" lastupdated="3.43.1" currentrelease="3.45.1.2" releasestatus="Allele Deleted - Sequence shown to contain errors and be identical to A*02:03 (April 2005)" confirmed="Unconfirmed"/>
-    <locus genesystem="HLA" locusname="HLA-A" hugogenename="HLA-A" class="II" />
-</allele>
 <alleles xmlns="http://hla.alleles.org/xml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xs:noNamespaceSchemaLocation="http://hla.alleles.org/xml/hla.xsd">
-  <allele id="HLA00002" name="HLA-A*02:03" dateassigned="1989-08-01">
+    <allele id="HLA00001" name="HLA-A*01:01" dateassigned="2005-04-29">
+        <releaseversions firstreleased="3.43.1" lastupdated="3.43.1" currentrelease="3.45.1.2" releasestatus="Allele Deleted - Sequence shown to contain errors and be identical to A*02:03 (April 2005)" confirmed="Unconfirmed"/>
+        <locus genesystem="HLA" locusname="HLA-A" hugogenename="HLA-A" class="II" />
+    </allele>
+    <allele id="HLA00002" name="HLA-A*02:03" dateassigned="1989-08-01">
     <releaseversions firstreleased="1.0.0" lastupdated="1.0.0" currentrelease="3.45.1.2" releasestatus="Sequence unchanged" confirmed="Confirmed"/>
     <locus genesystem="HLA" locusname="HLA-A" hugogenename="HLA-A" class="I" />
     <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
