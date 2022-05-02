@@ -22,11 +22,11 @@
  DPB1*01:01:01:01  AGAGAAAGAG GTTCATCCCC TATAGGATAG CTTGCTACCC TACTGGCCTA TTCTCTCTCC AAGGACATGG GTACAGTAAA CAGAGAGAGG TGCCCAGTGG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TCAGTATGCT TGTCTTTGGG GAAAATGGGA CCAAGAGGTC CAGGATAACC TTGGACAGAC AAGGTTTGCA GAGAGAGAAG TTGGCAAGTG CAGGCTCCTG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- -T-------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- .--------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GGCGTGTTCA CATCTGCATC CAGCCTGGAG GGGACTCAGG CAGAGAGCCC TAAGCTGGAG TGTCCAGGCT CTGAGGATCA CTGAGGATTC AGTGCTCACG 
- DPB1*99:99:01:01  ---------- -G-------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AAGAATGCCT CTTATTCCCC AGGGTGGAGC AGGAGCCCAC ACCCCTTGGA CAATTAAGGA GAGAAGGGAG GGAGGGGGAT AGGTTTTAGC CCCTGAAGGC 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- -T-------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  ATTCTCATTA AAGGTACTTC TCCCAGCCTC CCCAGAACTT GGTTAGGGTA CTAGAGTGGG TTGCGACTTG TAGGAAGAAT GAGATGAGGT TGTGTGGGTG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CATGACAGGG ATTGAGTGTA GGTTATCAGA CAGCCAAGGA AGCAGTAACC AAGTGAAAAA TCTCTTCTTC CTGCTGCCTC CCTGTGGCTG GTGTAATATT 
@@ -42,25 +42,25 @@
  DPB1*01:01:01:01  TGCACAGTAT TCCATGGTGT ATATGTGTGC ATTTTCTTAA TCCAGTCTAT CACTGATGGA CAGTTGGGTT GGTTCCAAGT CTTTGCTATT GTGAATAGTG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCGCTATAAA CATATGTGTG CATGTGTCTT TATAGCAGCA TGATTTATAA TCCTTTGGGT ATATACCCAG TAATGGGATG GCTGGGTCAA ATGGTATTTC 
- DPB1*99:99:01:01  ----A----- --C------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
- DPB1*01:01:01:01  TAGTTCTAGA TCCTTGAGGA ATTGCCACAA TGTCTTGAGA TACCATCTCA CACCAGTTAA AATGGCGATC ATTAAAAAGT CAGGAAACAA CAGGTGCTGG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*01:01:01:01  TAGTTCTAGA TCCTTGAGGA ATTGCCACAA TGTCTTGAGA TACCATCTCA CACCAGTTAA AATGGCGATC ATTAAAAAGT CAGGAAACAA CAGGTGCTGG 
+ DPB1*99:99:01:01  ---------- ---------- ---------C ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AGAGGATGTG GAGAAATAGG AACACTTTTA CTCTGTTGGT GGGACTGTAA ACTAGTTCAA CCATTGTACT CTCAGGACAT TTCTAGTCCA AATTTACACC 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AACACTCTGA GAGGAAGGAC TGCAAAGTAG GTACCTTAGT TTTCCACTGA CTTCCACCTT TCCTGCTTAC ACCCTTCCTC CTAGACCTCT CCACACCCCT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- -------T-- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCTAGGACAC ACCTAGAAGG TACTGACATC ATGTCACCTC CTCATCTTTC AGGGTAGCAA GGTTGGAATC TCCTGAATAC AGCCCCTCAA GCCCTAAAAC 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CTCTTATCTA TTACCTTGGG TTCATTGTCC AGGAAGGGGA GGAGAACTTG AACTTGCAGT CACAGAAGGG TGCTGAGAAC TAACCAGCAG GACGGCTCAG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ------T--- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCCTGGGAAC TGCAGAGGGG TGAGGCTGGG GAGAGAGGAG GCTGGAGCAG CACTGGTGAC ACTGAACAGT GTCAGGAGGA GGTGACGGAT GCAGCGCCCC 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- A--------- ---------- 
  DPB1*01:01:01:01  CATCCCATAG GCAGAGCTGT CATGTGGGAT GAGGGACAGT GTTGGGAGCC ACCAAGGAAA CCCAGAGGTG GGGGAGCAGA GAGCAGAAGG GGGCATGTGA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TGCTGGGCAG TGAAAGGGAG GACAGGCAAA GGCTGGGTTG AGGTTTGTAG GGGGAATGAG ATGAGGCAGT GGAGCCATGT GACAGGGACT GAGGGTAGAT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TACTGGAGCT CCCTGCGTAG AATGAATGTT CAATCAAAAC CTGCTGGAGG GAGAGCTGGA GCCATAGGGG AGTGGGTAAA GTGGGCAGGG CTGATTCCAC 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- T--------- 
  DPB1*01:01:01:01  AATTCCCTGC ATGCTCCCCC AACTCCACAC ACATCCCCAA CCTCAAACAG GGCACAAGAC CAAAGGGCTG AGGAGCCAGG CTATAGCTTA AAGAGGCTGG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GGGAGAAAAG CTTGGCTGAG ACAACCCATA GGGAGCTAGA GGTTTTTAAT ATATCCTATT CTGAATAAGA GACGAATTCA TTCAGATCAG TGGTTTCAAA 
@@ -72,7 +72,7 @@
  DPB1*01:01:01:01  CAAAGAAAAA ATTCAAAATT CTTATTCTTG AATGAAAAAC GTTCTCTTAC TGGTGATTGA GGAGGAGAAA CAAAGACTAA CAAATGAAAA TGGGAGAATC 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CACACTCAGA GTGGGGCAAT TGAACAGGCA GGGGCGGATG GATGGCAGAG GAGGAGGAAT CTGGACTCAA GGAGCTGGGG GGCTCTGGGC CTGGAATTTT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------C 
  DPB1*01:01:01:01  AGGGTCTGGG GCCCAAGGCA CCAGGAGAAG AGGCAGGTCA GGATATCTGA GTCAAGACCT GGGATCTTGC CTTAGCAATG ACACTGGAGA CTAAAGGTGG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  ACTCCATGGT GCCCTTGAGC CCAGCCCTAC CCCATCTCCA CTATCCTCTG CCACCAGCTG TGCAACTTCT GCTAGGGGTG AGGTTAATAA ACTGGAGAAG 
@@ -82,49 +82,49 @@
  DPB1*01:01:01:01  AACAAACATG TGCCGTGTCA CTGATAATTC TGTGTAGACA CACACCTGCC AGACACTGCT CATGGCACTC CCTAGGAAGA ACAGCATGTG GGAAAGGCTG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCAAAATTGT TCATGTAAAA ATTACATCAA CGCTGTCTTC CTCGGTGCTG CCTATGCAGC TGGCAGCCAT CTCTTCCTCC ACATCATGGC CTCCCTCAGA 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- T--------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CTCCTCATGA AGGATAAGAT CCTCAAAAAG AGGACCAACA AGTTCATGAG GCACCAATCA GACTGAAATG TCAAAATTAA GCATAACTGG CGGAAACCCA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GAGGTCTTAA CAGTAGGGTT CGTAGAAGGT CCAAGGGCCA GATCTTGATG CCCAACATTG CTTATGGGAG CAACAACAAC AACAAAAAAC ACATGCTGCC 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CAGTGGCTTC CAGAAGTTTC TGGTCCACAG CCTCAAGGAG CTGAAAGTGC TGCTGATGTG CAACAAATCT TACTGTGCTG AGATCGCTCA CAAAATTTCC 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---C------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TCCAGAACTG CAAAGTCATC ATGGAAAGAG TCACCCAGCC GGCCATCAGA GTCACCAACC CCAGTACCAG GGTGCACAGC TAAGAAAATG AGTAGAAAGT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TCATGTCCAC GTTTTGTGTG TAAATAAAAC CATAAAAACT GCCAAAAAAA ATTACATCAA TGCCTCTAAA CCCAAAGGAC TCTACCCCCA CAGGTCCCTG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- -------G-- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GTTGTTGTGG TGATTTTCAT TGTGTAAAAT ACTTTCCACA TCTTTTGACA CCAAGTCTTT CTGCAGCCAT GTTTGAAAAT TAACTTTCAG GCTACAGAGT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CTTTCTTATA CCAAAGTTGA AGAAAGTTTT AAGAAATATA TTTCTACATC TCCTAAATGC AAAACAACAG GAGCAAGTTG AGGAATTCTC AAGAAACTGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- -----C---- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TCGAGAAGAG AGAGCGCTTA GCTATGGAAA AGAGAAAGAA GGAAGGGAGG GCTTCCTGGA GGAGGTGGCA TTTGAACCAG GACTGACATC AGGATGGAAA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TGTCAGTCAG GGAGTTAAGT AGGGGGAGCA GCTCCGCCCT CCACGTCCCC AGCTCCTCCC GCCCCTGTTT TTTCTCCCAG TGACCCCACG TGAAACGTCT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCGCCTCCTC CAGCCACCAG CAGAAGGGAC TGCCTTCCCC TCAGTGCTCG CCCCTCCCTA GTGATCACTC AGTGCCCCTG AGC....... .TCATTCTTT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---....... .--------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- -T-------- ---------- ---------- ---------- ---....... .--------- 
  DPB1*01:01:01:01  TCAGTAAATT CTCTCTCTGC GTGGTGAGAA AACAGGCCTG GAGAGGCTCT GCGACCCGCT TAGGACCACA GAACTCGGTA CTAGGAAAAC TCCTATTTTA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AAATCCAGCC CTGAGTGGGT AGATTTGGGA AGAATCGTTA ATATTGAGAG AGAGAGGGAG AAAGAGGATT AGATGAGAGT GGCGCCTCCG CTCATGTCCG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------A ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCCCCTCCCC GCAG | AGAATT ACGTGTACCA GGGACGGCAG GAATGCTACG CGTTTAATGG GACACAGCGC TTCCTGGAGA GATACATCTA CAACCGGGAG 
- DPB1*99:99:01:01  ---------- ---- | ------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---- | ------ ---------- -TT------- ---------- ---------- ---------- ---------- ---------- -------C-- 
  DPB1*01:01:01:01  GAGTACGCGC GCTTCGACAG CGACGTGGGG GAGTTCCGGG CGGTGACGGA GCTGGGGCGG CCTGCTGCGG AGTACTGGAA CAGCCAGAAG GACATCCTGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------A ---------- ---------- ---------- ---------- ---------- ---------- ---C------ 
  DPB1*01:01:01:01  AGGAGAAGCG GGCAGTGCCG GACAGGGTAT GCAGACACAA CTACGAGCTG GACGAGGCCG TGACCCTGCA GCGCCGAG | GT GAGTGAGGGC TTTGGGCCGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- | -- ---------- ---------- 
+ DPB1*99:99:01:01  ------G--- ---------- ------A-G- ---------- ---------- ---------- ---------- -------- | -- ---------- ---------- 
  DPB1*01:01:01:01  CGGTCCCAGG GCAGCCCCGC GGGCCCGTGC CCAGGGCGCA GGAGCAGCCG GGTTGGCCTA AGGGACCTTA GTGCCGGGCG GAAAGGGGAC TTTGGGTTGG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GGATTCATGG GGGG.AGCCC ATCTGGAGCT TGTCAGGGGA GCGAGCGCGG GGACCTGGAC TGGGCT.GAG CATGGAGTGA GGAGGACGGG AGCAGAGAGA 
  DPB1*99:99:01:01  ---------- ----.----- ---------- ---------- ---------- ---------- ------.--- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCCCGGGGAC TTCATCAGGC CTGGCAGCTG ACTGCATGTG GGATGAAAAA AAGGAAGCCA CAGGACAGCG CACAAGGGTA TGGTGTGGAG ATGGAGGTGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- --G------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AG......AT GGCACA...G CAGGCCACAC AGAGAAGAAA CCTACAGGGA GTTAGCTGGG TTTGAGGTGC TTGAGGGGCA GATGGGTGGT CTGATGGGCA 
  DPB1*99:99:01:01  --......-- ------...- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GGTAGACAGA AGGGTCTGCA GCCGGGGAGG AGACTGAGAT ACATGAGACC ATCCAGGGAG AGGGGACCCA GGGGGAAGAG CAAAGGACTG GATCCTGGGA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  ACTGGACAGT TGTGATTTGG CCAAGACAGA AAAGCCTGTG AAAGAGACCA AAAAAACCCA AGTGCAGTGT GAGGAGAGGC CCGCAGAGAA GAGTCTTGGA 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- -T-------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AGCTGAGGGG AGGTGACCTC AGCAGCACAG TGGACAGCGG TGCCAGTGAC TTGGGAAGGT CAGAAAACAG AAGATGGAAA .GTGGGTTTG GAAACCAGGG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- .--------- ---------- 
  DPB1*01:01:01:01  AGACCTGGGG AGAGCAGGTT GGCCGCAGCG GCAGGAGCTG GAATGGGAGG GGGTGCATGA GGCTGAGTGT GGCGCATCCT CCTCGGGGCT GAGATGGATT 
@@ -136,15 +136,15 @@
  DPB1*01:01:01:01  ACCTTTGGGA CTTGAGGGAG TAGTATCAGG ATGTGGGATT GAGCCCTGGA CCTTTTTTCT AGAAAGAGGA AAAAAATGAA GGGAGGAGGA GGAGGAAGCT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GGGGAGATCA CACCTTTGAT TTTCTTGTTC CTGGAAAGTG AAAGGAAGTT CACCTGCTAG GAGTGAGAAG GTGGACACAC AGGGTGGGGA TGAGGTGAGT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------T ---------- ---------- T--------- ---------- 
  DPB1*01:01:01:01  GACATGAGCT TAGGAAAGTT GCTGAGGTAA TTGGTTGAGA GAGATGTTCA AATAAAAGTA ATGCAATTGG CAAAAACTGT TACTAAGACT TTGTAGAGGC 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---G------ ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  ACAAATCAGT GACATGGCAG CATCTTCTTT CACAGTAATC AACTGCCAGA TTGCAGGGAG CACTGATACC AGCCTAAGGA GTGTGAGTTT CTCCTCTAGG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCCACAGGTC CCCAACCTCA CTCCTCCGAA GACTCTCCTG GAGATCATCT GTGATGTGCA GATACCCAGA CTCACTGCCC CGAGACTCAG ATTCCCTGGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ------A--- ---------- ------C--- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TAGGGAGGTC GGGGGATCTC TGCTTGTAAT CAGCTCCCTA GAGGTTCCCA TGTAGCCGGA TAAGTATTGT CAGAACACTG AAGATTTTTG AAAAATGAAA 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  -G-------- T--------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AAGAGAAGGT TGGAGATGTG TCTTCAGAAG ACTACTAAGG GTGCTGGGTA GAGGAGGGAC CAGAGGCAGG GAGATGAGGT AGGAAACTGC TATTATTTGT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CAGGGAAATT GCAATCAAGA AATGAGTTAG AACAGGGAAA ACACAGAGGC AGGGGAGAGG TGGAAGGGGG AGGAAAGGAG TAGTGACAAT TCCAGGGTGT 
@@ -176,7 +176,7 @@
  DPB1*01:01:01:01  ........AC ATCCTTTTGG AAAAGGATGG GATTTCTACT ACTCAAGCAT GTAGGGGCTC AGGATATTAT GTAAATATGA AGATTTTGAG TTTTTGTAAG 
  DPB1*99:99:01:01  ........-- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TGAGGTAAAA AAAATACCTA GGTTATTTAC AGAATAAGAC ATGTCAAGCT CTCTTCATTT TCTTTGTATT TTCATGAAAT AAAGGTATTA GATTAACAGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- --------C- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CCACCATAAT GCCATTGTCT GTATATCTTA ATTTCAAGAT ATTATTTGAG TAATTTTTGC ATCCTTTGTA TCAAGATAGA ACTTTGAAAA GACAGGTAAT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TTCACAGTTG ATTAAATATT CTTTGCCCAA ATTACTTTTG GTTAAAATTT CTCCTATATG TGCTACAGAG TGCAAACTCT GTCTCCCTGC CATTCCGCTA 
@@ -190,52 +190,52 @@
  DPB1*01:01:01:01  TAATACAAAA ATTAGCCAGG TGAGGTGGCA GGCACCTATA ATCCCAGCTA TTCGGGAGGC TGAGGAAGGA GAATTGCTTG AACCCCTGAG GTGGAGGTTG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CAGTGAGCCA ATATTGCACC ACTGCATTCC AGACTTGGCA ACAGAGCGAC ACTCCACCTC AACAAAAAGA AAGAA..... .......AGA GCGAGATTAC 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- -----..... .......--- ---------- 
+ DPB1*99:99:01:01  ---------- -------G-- ---------- ---------- ---------- ---------- ---------- -----..... .......--- ---------- 
  DPB1*01:01:01:01  GTCTCAAAAA A...GGAAGG AAGGAAGGA. .......... .......... .......... .......... .......... .CAATCTCAA ATGCTATTTC 
  DPB1*99:99:01:01  ---------- -...------ ---------. .......... .......... .......... .......... .......... .--------- ---------- 
  DPB1*01:01:01:01  ATTATTTTTC TTCCCCACTC GTAG | TCCAGC CTAAGGTGAA CGTTTCCCCC .TCCAAGAAG GGGCCCCTGC AGCACCACAA CCTGCTTGTC TGCCACGTGA 
- DPB1*99:99:01:01  ---------- ---------- ---- | ------ ---------- ---------- .--------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  --------C- ---------- ---- | ------ ---------- ---------- .--------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CAGATTTCTA CCCAGGCAGC ATTCAAGTCC GATGGTTCCT GAATGGACAG GAGGAAACAG CTGGGGTCGT GTCCACCAAC CTGATCCGTA ATGGAGACTG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GACCTTCCAG ATCCTGGTGA TGCTGGAAAT GACCCCCCAG CAGGGAGACG TCTACATCTG CCAAGTGGAG CACACCAGCC TGGACAGTCC TGTCACCGTG 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GAGTGGA | GTG AGTCTCTGAT GACCATCTAG ACCCCACCTC TGAAGAGCAG GGGACTCTCT GGCTCTGGGG TCCACTCATC TTATCTTCTG CATCTATACC 
- DPB1*99:99:01:01  ------- | --- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ------- | --- ---------- ----G----- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CTGGGGCCAT GTCCAAACCC CATCTTTCTT CTATACCAGC TCCTGAGCAT AGTTTGAAGC CAGGGCAATG GAGACTTCCT GACCTTGGCT TAGGGGTTCC 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TGAAGATTCA TAGTTCTCCC CCTTGTCAGA GAATCTAGGG ACACTGGCTG ATCTCGAAAC CCTCACACAC AGGAACTGAC CTCACACATA GGAACAGTTC 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TCTTCTTTCA GCATTTTAGC CTCTTCTCAG GCATTTTGAG AGGCAACTTC CAGAATCAGC ATTTGCCACC TTGTTGAGGT CACACCCCTG TTCCAGACAT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- T--------- ---------- ---------- ---------- ----G----- 
  DPB1*01:01:01:01  GAGGGTGGCT CTTTCTGAAT TTCCTCTTAG CAAGCTTTTT CCCCTGCACT GTCTTCATCC CGATATTCTG CATCACGCTC CAGAATCTCA GACAGGACAT 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GAGTAGGGAT GCAGCTGGTG GAGGTGACAC TAAACCTGGG TCTGTCCTTC CCAG | AGGCAC AGTCTGATTC TGCCCAGAGT AAGACATTGA CGGGAGCTGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---- | ------ ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---- | ------ ---------- -----G---- ---------- ---------- 
  DPB1*01:01:01:01  GGGCTTCGTG CTGGGGCTCA TCATCTGTGG AGTGGGCATC TTCATGCACA GGAGGAGCAA GAAAG | GTGAG AAAGCCTGCA AGGTGAGCGG GACTTACCTT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ----- | ----- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ----- | ----- ---------- ---------- ---C------ 
  DPB1*01:01:01:01  CCCCTGGCAT ATTCACACTT ACTCCATGAT GAGGGTTTAG ACAGAAAAGA AATGTCAGAA AGCTCTAGAG ACCA...... CTGAAATCAG ATAGTCGGGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----...... ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- -------C-- ---------- ---------- ---------- ----...... ---------- ---------- 
  DPB1*01:01:01:01  AACAAACATG ACCTATAGCG AGAGTGGGAT CCCAGGCTGG GATCTTAATG CAGCCAGATG CATGAGGTCC CAGGTGCTCA GACTCCTGCG GGGCATCCAT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ------G--- ----G----- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TGAGTGGTGG TCAATGGAAT TTGGTGGGAT GGAAATGTTT CTCTAATTAT CTGAGGTGGT TTCAATGGCT GAATACATAA CCTTTCCTCT TTCATTTCAG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ------C--- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  | TTCAACGAGG ATCTGCATAA | ACAGGTAATA TTCCTGCTTT GATTTCCTTG GGGGGTGGGT TACAGGAGGA TATGACTCCT TTCTGTGCAT TGTAATACTG 
- DPB1*99:99:01:01  | ---------- ---------- | ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  | ---------- ---------- | .--------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AGGCTCCTCC AGGAAGGGAA TCTCAGGCAT GAACCCCTCT TTCAACCTCA GCTCTCGGGT GAGTGGGGAA AAAGCATTGC ACGGCTCCAT TGCTGAAGGA 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ----A----- ---------- ---------- ---------- 
  DPB1*01:01:01:01  AGCAGAGATC AGTTCTGTTC TTTATCAGCC TAAGATGCAG CCTCTCACCA TAATTTTTCT CTCCTGGACT TAAAGGAAGG AGGCCAGCAA CCTGGGATAA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  CTTGTCCTTT ACCCCCACAG GGTTCCTGAC CTCACCGAAA AGACTAATGT GCCTTAGAAC AAGCATTTGC TGTGTTTTGT TAACACCTGG TTCCAGGACA 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- --G------- ---------- 
  DPB1*01:01:01:01  GACCCTCAGC TTCCCAAGAG GATACTGCTG CCAAGAAGTT GCTCTGAAGT CAGTTTCTAT CGTTCTGCTC TTTGATTCAA AGCACTGTTT CTCTCACTGG 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- -------C-- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  GCCTCCAACC ATGTTCCCTT CTTCTTAGCA CCACAAATAA TCAAAACCCA ACATAAGTGT TTGCTTTCCT TTAAAAATAT GCATCAAATC GTCTCTCATT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---T------ ---------- ---------- ---------- 
  DPB1*01:01:01:01  ACTTTTCTCT GAGGGTTTTA GTAAACAGTA GGAGTTAATA AAGAAGTTCA TTTTGGTTTA CACGTAGGAA AGAAGAGAAG CATGAAAGTG GAGATATGTT 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  -----..... ---------- ---------- ---------- ---------- ---------- ---A------ ---------- ---------- ---------- 
  DPB1*01:01:01:01  AACTATTGTA TAATGTGGCC TGTTATACAT GACACTCTTC TGAATTGACT GTATTTCAGT GAGCTGCCCC CAAATCAAGT TTAGTGCCCT CATCCATTTA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TGTCTCAGAC CGCTATTCTT AACTATTCAA TGGTGAGCAG ACTGCAAATC TGCCTGATAG GACCCATATT CCCACAGCAC TAATTCAACA TATATCTTAC 
- DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
+ DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- -----G---- ---------- ---------- ---------- 
  DPB1*01:01:01:01  TGAGAGCATG TTTTATCATT ACCATTAAGA AGTTAAATGA ACATCAGAAT TTAAAATCAT AAATATAATC TAATACACTT TAA 
  DPB1*99:99:01:01  ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- --- 
