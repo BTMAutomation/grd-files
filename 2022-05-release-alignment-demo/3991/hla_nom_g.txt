@@ -4,4 +4,5 @@
 # origin: http://hla.alleles.org/wmda/hla_nom_g.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom_g.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;99:99:01:01/99:99:02:01/99:99:03:01/99:99:04:01/99:99:05:01N/99:99:06:01N/99:99:07:01/99:99:08:01N/99:99:09:01/99:99:10/99:99:11:01N;01:01:01G
 DPB1*;01:01:01:01/99:99:01:01;01:01:01G
