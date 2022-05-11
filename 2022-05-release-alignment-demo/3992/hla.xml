@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<alleles xmlns="http://hla.alleles.org/xml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xs:noNamespaceSchemaLocation="http://hla.alleles.org/xml/hla.xsd">
+  <allele id="HLA00514" name="HLA-DPB1*01:01:01:01" dateassigned="1989-08-01">
+    <releaseversions firstreleased="1.0.0" lastupdated="1.10.0" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Confirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="C" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <citations>
+      <citation pubmed="2460556" authors="Bugawan TL, Horn GT, Long CM, Mickelson E, Hansen JA, Ferrara GB, Angelini G, Erlich HA" title="Analysis of HLA-DP allelic sequence polymorphism using the in vitro enzymatic DNA amplification of DP-alpha and DP-beta loci." location="Journal of Immunology 141:4024-4030 (1988)." />
+      <citation pubmed="2714855" authors="Lee JS, Sartoris S, Briata P, Choi E, Cullen C, Lepaslier D, Yunis I" title="Sequence polymorphism of HLA-DP beta chains." location="Immunogenetics 29:346-349 (1989)." />
+      <citation pubmed="1529429" authors="Korioth F, Hartung K, Deicher H, Frey J" title="A new HLA-DPB1 allele from a patient with systemic lupus erythematosus." location="Tissue Antigens 39:216-219 (1992)." />
+      <citation pubmed="16189666" authors="Reinders J, Rozemuller EH, van Gent R, Arts-Hilkes YH, van den Tweel JG, Tilanus MG" title="Extended HLA-DPB1 polymorphism: an RNA approach for HLA-DPB1 typing." location="Immunogenetics 57:790-794 (2005)." />
+      <citation pubmed="29879452" authors="Klasberg S, Lang K, Gunther M, Schober G, Massalski C, Schmidt AH, Lange V, Schofl G" title="Patterns of non-ARD variation in more than 300 full-length HLA-DPB1 alleles." location="Human Immunology 80:44-52 (2019)." />
+      <citation pubmed="35094503" authors="Turner TR, Hayward DR, Gymer AW, Barker DJ, Leen G, Cambridge CA, Macpherson HL, Georgia X, Cooper MA, Robinson J, Mayor NP, Marsh SGE" title="Widespread non-coding polymorphism in HLA class II genes of International HLA and Immunogenetics Workshop cell lines." location="HLA 99:328-356 (2022)." />
+    </citations>
+    <sourcexrefs>
+      <xref acc="AY804143" pid="AAW78748.1" />
+      <xref acc="LT599419" pid="SBW38640.1" />
+      <xref acc="LT599420" pid="SBW38641.1" />
+      <xref acc="LT963654" pid="SOT79948.1" />
+      <xref acc="M23685" pid="AAA59750.1" />
+      <xref acc="M62338" pid="AAA59731.1" />
+      <xref acc="M83664" pid="AAA59837.1" />
+      <xref acc="X72070" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Black</sample_ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="CTM1953541" />
+        <sample name="DKMS-LSL-DPB1-1356" />
+        <sample name="DKMS-LSL-DPB1-1357" />
+        <sample name="FB11" />
+        <sample name="LUY" />
+        <sample name="P0077" />
+        <sample name="RSH" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>TAATCCCTGTAGATGGGCCAGCAGAATATTTGAGATCACCTTCAGAGCAAAGAAAACGCATAATCTCCCCAAACATCATGACTTATCTGACTGGTTAAAATGAGTATCACTGTCTTTCCTCCGTCATCTTAAGTGCATCACAGGCTTTATATTTTCAGACCTTTCATACTAACTTTCTGCCTAGTGAGCAATGACTCATACAAAGCTCAGTGTCCATTGGTTCTTTTCTCAGACTCTGTCCAATCCCAGGGTCACAGAAGACTACTTGGGTTCATGGTCTCTAATATTTCAAACAGGAGCTCCCTTTAGCGAGTCCTTCTTTTCCTGACTGCAGCTCTTTTCATTTTGCCATCCTTTTCCAGCTCCATGATGGTTCTGCAGGTTTCTGCGGCCCCCCGGACAGTGGCTCTGACGGCGTTACTGATGGTGCTGCTCACATCTGTGGTCCAGGGCAGGGCCACTCCAGGTAAGAGCCGAGCTGCCATTCTTGGAGGGTCTGGCTCAGGGAACAATTCCTAGGGGACGTTATCTTTAAGGGATCAAATTCTGAGACAGGCTGCGGGGGCTCCTGCCCTAAGGCAGTGTCCTCTCTTCCCAGCTAGAGAAAGAGGTTCATCCCCTATAGGATAGCTTGCTACCCTACTGGCCTATTCTCTCTCCAAGGACATGGGTACAGTAAACAGAGAGAGGTGCCCAGTGGTCAGTATGCTTGTCTTTGGGGAAAATGGGACCAAGAGGTCCAGGATAACCTTGGACAGACAAGGTTTGCAGAGAGAGAAGTTGGCAAGTGCAGGCTCCTGGGCGTGTTCACATCTGCATCCAGCCTGGAGGGGACTCAGGCAGAGAGCCCTAAGCTGGAGTGTCCAGGCTCTGAGGATCACTGAGGATTCAGTGCTCACGAAGAATGCCTCTTATTCCCCAGGGTGGAGCAGGAGCCCACACCCCTTGGACAATTAAGGAGAGAAGGGAGGGAGGGGGATAGGTTTTAGCCCCTGAAGGCATTCTCATTAAAGGTACTTCTCCCAGCCTCCCCAGAACTTGGTTAGGGTACTAGAGTGGGTTGCGACTTGTAGGAAGAATGAGATGAGGTTGTGTGGGTGCATGACAGGGATTGAGTGTAGGTTATCAGACAGCCAAGGAAGCAGTAACCAAGTGAAAAATCTCTTCTTCCTGCTGCCTCCCTGTGGCTGGTGTAATATTATGGCATCTATGATCCATTGTTTTTCTCTCAGGATACTCTCAGGATATTTCTTTTTATATATATATATACTTTAAGTTCTAGGGTACATGTGCACAACGTGCAGGTTTGTTACATATGTATACATGTGCCATGTTGGTGTGCTGCACCCATTAACTCGTCATTTACATTAGGTATATTTCCTAATGCTATCCCTCCCCCCTCCCCCCACCCCACAACAGGCCCCGGTGTATGATGTTCCCCTTCCTGTGTCCATGTGTTCTCATTGTTCAGTTCCCACCTATGAGTGAGAACATGTGGTCTTTGGTTTTTTGTCCTTGCAATAGTTTGCTGTGAATGATGGTTTCCAGCTTCCTCCATGTCCCTACAAAGGACATGAACTCATCCTTTTTTATGGCTGCACAGTATTCCATGGTGTATATGTGTGCATTTTCTTAATCCAGTCTATCACTGATGGACAGTTGGGTTGGTTCCAAGTCTTTGCTATTGTGAATAGTGCCGCTATAAACATATGTGTGCATGTGTCTTTATAGCAGCATGATTTATAATCCTTTGGGTATATACCCAGTAATGGGATGGCTGGGTCAAATGGTATTTCTAGTTCTAGATCCTTGAGGAATTGCCACAATGTCTTGAGATACCATCTCACACCAGTTAAAATGGCGATCATTAAAAAGTCAGGAAACAACAGGTGCTGGAGAGGATGTGGAGAAATAGGAACACTTTTACTCTGTTGGTGGGACTGTAAACTAGTTCAACCATTGTACTCTCAGGACATTTCTAGTCCAAATTTACACCAACACTCTGAGAGGAAGGACTGCAAAGTAGGTACCTTAGTTTTCCACTGACTTCCACCTTTCCTGCTTACACCCTTCCTCCTAGACCTCTCCACACCCCTCCTAGGACACACCTAGAAGGTACTGACATCATGTCACCTCCTCATCTTTCAGGGTAGCAAGGTTGGAATCTCCTGAATACAGCCCCTCAAGCCCTAAAACCTCTTATCTATTACCTTGGGTTCATTGTCCAGGAAGGGGAGGAGAACTTGAACTTGCAGTCACAGAAGGGTGCTGAGAACTAACCAGCAGGACGGCTCAGCCCTGGGAACTGCAGAGGGGTGAGGCTGGGGAGAGAGGAGGCTGGAGCAGCACTGGTGACACTGAACAGTGTCAGGAGGAGGTGACGGATGCAGCGCCCCCATCCCATAGGCAGAGCTGTCATGTGGGATGAGGGACAGTGTTGGGAGCCACCAAGGAAACCCAGAGGTGGGGGAGCAGAGAGCAGAAGGGGGCATGTGATGCTGGGCAGTGAAAGGGAGGACAGGCAAAGGCTGGGTTGAGGTTTGTAGGGGGAATGAGATGAGGCAGTGGAGCCATGTGACAGGGACTGAGGGTAGATTACTGGAGCTCCCTGCGTAGAATGAATGTTCAATCAAAACCTGCTGGAGGGAGAGCTGGAGCCATAGGGGAGTGGGTAAAGTGGGCAGGGCTGATTCCACAATTCCCTGCATGCTCCCCCAACTCCACACACATCCCCAACCTCAAACAGGGCACAAGACCAAAGGGCTGAGGAGCCAGGCTATAGCTTAAAGAGGCTGGGGGAGAAAAGCTTGGCTGAGACAACCCATAGGGAGCTAGAGGTTTTTAATATATCCTATTCTGAATAAGAGACGAATTCATTCAGATCAGTGGTTTCAAACCGTGCTCTGGGCAACTCAATTGCTAAGGGTTCCACAAACAGGATAAAGTTTCTTATATACAAAAAAAATGAAGGTTTCAAATTACACCATAAAACCCCTCATTGCTTATGTCTACTTGGCAGGTAAAATTCCATTTCAAAAGTTAAATGTACTTAAAAAATTACCTAAGACTGGGTAAATTAAAAAAATTAAATGTTGCAAAGAAAAAATTCAAAATTCTTATTCTTGAATGAAAAACGTTCTCTTACTGGTGATTGAGGAGGAGAAACAAAGACTAACAAATGAAAATGGGAGAATCCACACTCAGAGTGGGGCAATTGAACAGGCAGGGGCGGATGGATGGCAGAGGAGGAGGAATCTGGACTCAAGGAGCTGGGGGGCTCTGGGCCTGGAATTTTAGGGTCTGGGGCCCAAGGCACCAGGAGAAGAGGCAGGTCAGGATATCTGAGTCAAGACCTGGGATCTTGCCTTAGCAATGACACTGGAGACTAAAGGTGGACTCCATGGTGCCCTTGAGCCCAGCCCTACCCCATCTCCACTATCCTCTGCCACCAGCTGTGCAACTTCTGCTAGGGGTGAGGTTAATAAACTGGAGAAGTTAATTTGTGGAGCATGAAACAGATGAGCAGAACAATCACAGCACCTTAATTTCCCCAGTGTGCCCAAGAACAGAGCAGGCCTGAAGACACTCAAACAGAAACAAACATGTGCCGTGTCACTGATAATTCTGTGTAGACACACACCTGCCAGACACTGCTCATGGCACTCCCTAGGAAGAACAGCATGTGGGAAAGGCTGCCAAAATTGTTCATGTAAAAATTACATCAACGCTGTCTTCCTCGGTGCTGCCTATGCAGCTGGCAGCCATCTCTTCCTCCACATCATGGCCTCCCTCAGACTCCTCATGAAGGATAAGATCCTCAAAAAGAGGACCAACAAGTTCATGAGGCACCAATCAGACTGAAATGTCAAAATTAAGCATAACTGGCGGAAACCCAGAGGTCTTAACAGTAGGGTTCGTAGAAGGTCCAAGGGCCAGATCTTGATGCCCAACATTGCTTATGGGAGCAACAACAACAACAAAAAACACATGCTGCCCAGTGGCTTCCAGAAGTTTCTGGTCCACAGCCTCAAGGAGCTGAAAGTGCTGCTGATGTGCAACAAATCTTACTGTGCTGAGATCGCTCACAAAATTTCCTCCAGAACTGCAAAGTCATCATGGAAAGAGTCACCCAGCCGGCCATCAGAGTCACCAACCCCAGTACCAGGGTGCACAGCTAAGAAAATGAGTAGAAAGTTCATGTCCACGTTTTGTGTGTAAATAAAACCATAAAAACTGCCAAAAAAAATTACATCAATGCCTCTAAACCCAAAGGACTCTACCCCCACAGGTCCCTGGTTGTTGTGGTGATTTTCATTGTGTAAAATACTTTCCACATCTTTTGACACCAAGTCTTTCTGCAGCCATGTTTGAAAATTAACTTTCAGGCTACAGAGTCTTTCTTATACCAAAGTTGAAGAAAGTTTTAAGAAATATATTTCTACATCTCCTAAATGCAAAACAACAGGAGCAAGTTGAGGAATTCTCAAGAAACTGGTCGAGAAGAGAGAGCGCTTAGCTATGGAAAAGAGAAAGAAGGAAGGGAGGGCTTCCTGGAGGAGGTGGCATTTGAACCAGGACTGACATCAGGATGGAAATGTCAGTCAGGGAGTTAAGTAGGGGGAGCAGCTCCGCCCTCCACGTCCCCAGCTCCTCCCGCCCCTGTTTTTTCTCCCAGTGACCCCACGTGAAACGTCTCCGCCTCCTCCAGCCACCAGCAGAAGGGACTGCCTTCCCCTCAGTGCTCGCCCCTCCCTAGTGATCACTCAGTGCCCCTGAGCTCATTCTTTTCAGTAAATTCTCTCTCTGCGTGGTGAGAAAACAGGCCTGGAGAGGCTCTGCGACCCGCTTAGGACCACAGAACTCGGTACTAGGAAAACTCCTATTTTAAAATCCAGCCCTGAGTGGGTAGATTTGGGAAGAATCGTTAATATTGAGAGAGAGAGGGAGAAAGAGGATTAGATGAGAGTGGCGCCTCCGCTCATGTCCGCCCCCTCCCCGCAGAGAATTACGTGTACCAGGGACGGCAGGAATGCTACGCGTTTAATGGGACACAGCGCTTCCTGGAGAGATACATCTACAACCGGGAGGAGTACGCGCGCTTCGACAGCGACGTGGGGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGCTGCGGAGTACTGGAACAGCCAGAAGGACATCCTGGAGGAGAAGCGGGCAGTGCCGGACAGGGTATGCAGACACAACTACGAGCTGGACGAGGCCGTGACCCTGCAGCGCCGAGGTGAGTGAGGGCTTTGGGCCGGCGGTCCCAGGGCAGCCCCGCGGGCCCGTGCCCAGGGCGCAGGAGCAGCCGGGTTGGCCTAAGGGACCTTAGTGCCGGGCGGAAAGGGGACTTTGGGTTGGGGATTCATGGGGGGAGCCCATCTGGAGCTTGTCAGGGGAGCGAGCGCGGGGACCTGGACTGGGCTGAGCATGGAGTGAGGAGGACGGGAGCAGAGAGACCCCGGGGACTTCATCAGGCCTGGCAGCTGACTGCATGTGGGATGAAAAAAAGGAAGCCACAGGACAGCGCACAAGGGTATGGTGTGGAGATGGAGGTGGAGATGGCACAGCAGGCCACACAGAGAAGAAACCTACAGGGAGTTAGCTGGGTTTGAGGTGCTTGAGGGGCAGATGGGTGGTCTGATGGGCAGGTAGACAGAAGGGTCTGCAGCCGGGGAGGAGACTGAGATACATGAGACCATCCAGGGAGAGGGGACCCAGGGGGAAGAGCAAAGGACTGGATCCTGGGAACTGGACAGTTGTGATTTGGCCAAGACAGAAAAGCCTGTGAAAGAGACCAAAAAAACCCAAGTGCAGTGTGAGGAGAGGCCCGCAGAGAAGAGTCTTGGAAGCTGAGGGGAGGTGACCTCAGCAGCACAGTGGACAGCGGTGCCAGTGACTTGGGAAGGTCAGAAAACAGAAGATGGAAAGTGGGTTTGGAAACCAGGGAGACCTGGGGAGAGCAGGTTGGCCGCAGCGGCAGGAGCTGGAATGGGAGGGGGTGCATGAGGCTGAGTGTGGCGCATCCTCCTCGGGGCTGAGATGGATTTTACTTGTCTTGGGTTCCCCACGGCTGTCACAGGGCAGTGTCTGAGTTCATTCGTCTTTTTCCTTCAGGAAGTCTGGGTGTAAAGGGATGGAGAGAGGTGAGGTGTGTGCAGTAAGAGGATTTCTCAAGGATGGGACAGGAAGGCCTTGGAGCTTTGGCTTCCTCCTGTGAACTTGTGGGGTGGGGAGCCTGGTGCACCAACCTTTGGGACTTGAGGGAGTAGTATCAGGATGTGGGATTGAGCCCTGGACCTTTTTTCTAGAAAGAGGAAAAAAATGAAGGGAGGAGGAGGAGGAAGCTGGGGAGATCACACCTTTGATTTTCTTGTTCCTGGAAAGTGAAAGGAAGTTCACCTGCTAGGAGTGAGAAGGTGGACACACAGGGTGGGGATGAGGTGAGTGACATGAGCTTAGGAAAGTTGCTGAGGTAATTGGTTGAGAGAGATGTTCAAATAAAAGTAATGCAATTGGCAAAAACTGTTACTAAGACTTTGTAGAGGCACAAATCAGTGACATGGCAGCATCTTCTTTCACAGTAATCAACTGCCAGATTGCAGGGAGCACTGATACCAGCCTAAGGAGTGTGAGTTTCTCCTCTAGGCCCACAGGTCCCCAACCTCACTCCTCCGAAGACTCTCCTGGAGATCATCTGTGATGTGCAGATACCCAGACTCACTGCCCCGAGACTCAGATTCCCTGGGTAGGGAGGTCGGGGGATCTCTGCTTGTAATCAGCTCCCTAGAGGTTCCCATGTAGCCGGATAAGTATTGTCAGAACACTGAAGATTTTTGAAAAATGAAAAAGAGAAGGTTGGAGATGTGTCTTCAGAAGACTACTAAGGGTGCTGGGTAGAGGAGGGACCAGAGGCAGGGAGATGAGGTAGGAAACTGCTATTATTTGTCAGGGAAATTGCAATCAAGAAATGAGTTAGAACAGGGAAAACACAGAGGCAGGGGAGAGGTGGAAGGGGGAGGAAAGGAGTAGTGACAATTCCAGGGTGTATGCTCACCCAAATCTAGAAGTAATTGAGCAAATGTTTTCTGGGCATTAGAGAAGGCAACTAGAACAAACAGGAATCCTTGCCTTGGTGAAATGTATTTGAACTGGGTCAGAAATGAGGCCATTGGGTATCAAGCCTTAACTCCAGCGCCCCCTGGAGGTCGCTGATGTGGCTCCAGGCTGACCTGCTCCTGTCAAAGAATATTGAGCAAGATGCCTCTCATGGAATGTTCTGGGACCTTAAAACAGATACCCAAGTATTCCCCCTGATTTCATGGTTCCCAGAAGCTCTATGGGGAAGAAATTGTACGTAATTCACAACTGAGATTTAGACATAAGTTGAATAGTGTAATGGACGTTGAGTTAACCGAGGTAATGAAGTAGTGAGACACAGGTGCCCCTGAAATAAACTCACATTGAGGGAAGAGGCTGACAATGTGGATCAGTCTGTAAACAAGGCAAAAATACAATAGGGAGTAAGGGTTGTGTGTCAGTTCAAGACTGTACTTTTACCTGGCCCAGCGCCATGTTGGGGTATTTGTGTTCTCCAGGAAGTAGAAAGGAAAGAACTGAGTGATTAGGGACCTAGAAGACTAATTTGAGACATTCCTCTTGATGAACTGTTCTCTAGGGTAGTCCTCTGAAAGAGCTGTTCTCTAGTGGATCTCCCTGAATGAACTGTTCTCTAGGAGCACTTGACCCTTTTCTGTGTTTGTTTTTTGTTTTGTGTTTGTGTTTGTTTTTGAGACAGGTTCTCGCTCTGTCTCCCAGGCTGGAGTGCTGTGGCGCCATCATGACTCACTGCAGCCTCAACCTCCTGGGCTCAAGTGATCCTCCTGCCTCAGCCTCCCATGTAGCTAGAACTACAGATACATGTACCACCATGTCTGGCTAATTTATTTTTCTTTTTAGAGATGGGTTCTCACTATGTTGCCCAGGCTGGTCTCGAAACCCTGGGCTCAAGTGATCCTCACGCCTCAGCCTCCCAAAGTGCTAAGATTATAGGCATGACCACCATGCCTGGCCTTTTCTGCCTTCCGAGAAGGAAAAAGGTACTGGTGGCAGAGATCCAAAAGAAAAGTTGCCAGTGGCAGTGTGGAAATTGACCTGAGAACAACAGAACAAGCTGGGGCACAAATGCAAAGATGCAGAGGGAGGCAACATCTGGTTATCTGTGAGACCTTCATGGGACCTGAAGACACATCCTTTTGGAAAAGGATGGGATTTCTACTACTCAAGCATGTAGGGGCTCAGGATATTATGTAAATATGAAGATTTTGAGTTTTTGTAAGTGAGGTAAAAAAAATACCTAGGTTATTTACAGAATAAGACATGTCAAGCTCTCTTCATTTTCTTTGTATTTTCATGAAATAAAGGTATTAGATTAACAGGCCACCATAATGCCATTGTCTGTATATCTTAATTTCAAGATATTATTTGAGTAATTTTTGCATCCTTTGTATCAAGATAGAACTTTGAAAAGACAGGTAATTTCACAGTTGATTAAATATTCTTTGCCCAAATTACTTTTGGTTAAAATTTCTCCTATATGTGCTACAGAGTGCAAACTCTGTCTCCCTGCCATTCCGCTATATACTTACTAATTATTATTTTATTCAAGATCATGCATGCTCTACTTGAAGGTCTATCTTTTCAGTGCTACCCTTACCCACTAGCCTAATCACATTATATCTATTTTCAACATCTAGGAATCAATTACGTAGTGAACATGCCTAAGAAATAATAATCTGGGCAGATGCAGTGGCTCAGGCCTGTAATCCCAGCACTTTGAGAGGCTGAGCGGGTGGATCACTTGAGGTCAGGAGTTGGTCAAGTGCTCCTAGAGAACCAGCCTGACCAACATGGAGAAACCTTGTCTCTACTGATAATACAAAAATTAGCCAGGTGAGGTGGCAGGCACCTATAATCCCAGCTATTCGGGAGGCTGAGGAAGGAGAATTGCTTGAACCCCTGAGGTGGAGGTTGCAGTGAGCCAATATTGCACCACTGCATTCCAGACTTGGCAACAGAGCGACACTCCACCTCAACAAAAAGAAAGAAAGAGCGAGATTACGTCTCAAAAAAGGAAGGAAGGAAGGACAATCTCAAATGCTATTTCATTATTTTTCTTCCCCACTCGTAGTCCAGCCTAAGGTGAACGTTTCCCCCTCCAAGAAGGGGCCCCTGCAGCACCACAACCTGCTTGTCTGCCACGTGACAGATTTCTACCCAGGCAGCATTCAAGTCCGATGGTTCCTGAATGGACAGGAGGAAACAGCTGGGGTCGTGTCCACCAACCTGATCCGTAATGGAGACTGGACCTTCCAGATCCTGGTGATGCTGGAAATGACCCCCCAGCAGGGAGACGTCTACATCTGCCAAGTGGAGCACACCAGCCTGGACAGTCCTGTCACCGTGGAGTGGAGTGAGTCTCTGATGACCATCTAGACCCCACCTCTGAAGAGCAGGGGACTCTCTGGCTCTGGGGTCCACTCATCTTATCTTCTGCATCTATACCCTGGGGCCATGTCCAAACCCCATCTTTCTTCTATACCAGCTCCTGAGCATAGTTTGAAGCCAGGGCAATGGAGACTTCCTGACCTTGGCTTAGGGGTTCCTGAAGATTCATAGTTCTCCCCCTTGTCAGAGAATCTAGGGACACTGGCTGATCTCGAAACCCTCACACACAGGAACTGACCTCACACATAGGAACAGTTCTCTTCTTTCAGCATTTTAGCCTCTTCTCAGGCATTTTGAGAGGCAACTTCCAGAATCAGCATTTGCCACCTTGTTGAGGTCACACCCCTGTTCCAGACATGAGGGTGGCTCTTTCTGAATTTCCTCTTAGCAAGCTTTTTCCCCTGCACTGTCTTCATCCCGATATTCTGCATCACGCTCCAGAATCTCAGACAGGACATGAGTAGGGATGCAGCTGGTGGAGGTGACACTAAACCTGGGTCTGTCCTTCCCAGAGGCACAGTCTGATTCTGCCCAGAGTAAGACATTGACGGGAGCTGGGGGCTTCGTGCTGGGGCTCATCATCTGTGGAGTGGGCATCTTCATGCACAGGAGGAGCAAGAAAGGTGAGAAAGCCTGCAAGGTGAGCGGGACTTACCTTCCCCTGGCATATTCACACTTACTCCATGATGAGGGTTTAGACAGAAAAGAAATGTCAGAAAGCTCTAGAGACCACTGAAATCAGATAGTCGGGGAACAAACATGACCTATAGCGAGAGTGGGATCCCAGGCTGGGATCTTAATGCAGCCAGATGCATGAGGTCCCAGGTGCTCAGACTCCTGCGGGGCATCCATTGAGTGGTGGTCAATGGAATTTGGTGGGATGGAAATGTTTCTCTAATTATCTGAGGTGGTTTCAATGGCTGAATACATAACCTTTCCTCTTTCATTTCAGTTCAACGAGGATCTGCATAAACAGGTAATATTCCTGCTTTGATTTCCTTGGGGGGTGGGTTACAGGAGGATATGACTCCTTTCTGTGCATTGTAATACTGAGGCTCCTCCAGGAAGGGAATCTCAGGCATGAACCCCTCTTTCAACCTCAGCTCTCGGGTGAGTGGGGAAAAAGCATTGCACGGCTCCATTGCTGAAGGAAGCAGAGATCAGTTCTGTTCTTTATCAGCCTAAGATGCAGCCTCTCACCATAATTTTTCTCTCCTGGACTTAAAGGAAGGAGGCCAGCAACCTGGGATAACTTGTCCTTTACCCCCACAGGGTTCCTGACCTCACCGAAAAGACTAATGTGCCTTAGAACAAGCATTTGCTGTGTTTTGTTAACACCTGGTTCCAGGACAGACCCTCAGCTTCCCAAGAGGATACTGCTGCCAAGAAGTTGCTCTGAAGTCAGTTTCTATCGTTCTGCTCTTTGATTCAAAGCACTGTTTCTCTCACTGGGCCTCCAACCATGTTCCCTTCTTCTTAGCACCACAAATAATCAAAACCCAACATAAGTGTTTGCTTTCCTTTAAAAATATGCATCAAATCGTCTCTCATTACTTTTCTCTGAGGGTTTTAGTAAACAGTAGGAGTTAATAAAGAAGTTCATTTTGGTTTACACGTAGGAAAGAAGAGAAGCATGAAAGTGGAGATATGTTAACTATTGTATAATGTGGCCTGTTATACATGACACTCTTCTGAATTGACTGTATTTCAGTGAGCTGCCCCCAAATCAAGTTTAGTGCCCTCATCCATTTATGTCTCAGACCGCTATTCTTAACTATTCAATGGTGAGCAGACTGCAAATCTGCCTGATAGGACCCATATTCCCACAGCACTAATTCAACATATATCTTACTGAGAGCATGTTTTATCATTACCATTAAGAAGTTAAATGAACATCAGAATTTAAAATCATAAATATAATCTAATACACTTTAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="366" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="367" end="466" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="467" end="5001" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="5002" end="5265" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="5266" end="9216" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="9217" end="9498" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+      <feature id="514.7" order="7" featuretype="Intron" name="Intron 3">
+        <SequenceCoordinates start="9499" end="10045" />
+     </feature>
+      <feature id="514.8" order="8" featuretype="Exon" name="Exon 4" status="Complete" >
+        <SequenceCoordinates start="10046" end="10156" />
+        <cDNACoordinates start="647" end="757"  readingframe="3" />
+     </feature>
+      <feature id="514.9" order="9" featuretype="Intron" name="Intron 4">
+        <SequenceCoordinates start="10157" end="10485" />
+     </feature>
+      <feature id="514.10" order="10" featuretype="Exon" name="Exon 5" status="Complete" >
+        <SequenceCoordinates start="10486" end="10505" />
+        <cDNACoordinates start="758" end="777"  readingframe="3" />
+     </feature>
+      <feature id="514.11" order="11" featuretype="UTR" name="3' UTR">
+        <SequenceCoordinates start="10506" end="11468" />
+     </feature>
+      <feature id="514.12" name="Translation" featuretype="Protein">
+        <translation>MMVLQVSAAPRTVALTALLMVLLTSVVQGRATPENYVYQGRQECYAFNGTQRFLERYIYNREEYARFDSDVGEFRAVTELGRPAAEYWNSQKDILEEKRAVPDRVCRHNYELDEAVTLQRRVQPKVNVSPSKKGPLQHHNLLVCHVTDFYPGSIQVRWFLNGQEETAGVVSTNLIRNGDWTFQILVMLEMTPQQGDVYICQVEHTSLDSPVTVEWKAQSDSAQSKTLTGAGGFVLGLIICGVGIFMHRRSKKVQRGSA</translation>
+      </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83001" name="HLA-DPB1*99:99:01:01" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAGAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83002" name="HLA-DPB1*99:99:01:02" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83003" name="HLA-DPB1*99:99:01:03" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83004" name="HLA-DPB1*99:99:01:04" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83005" name="HLA-DPB1*99:99:01:05" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83006" name="HLA-DPB1*99:99:01:06" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83007" name="HLA-DPB1*99:99:01:07" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83008" name="HLA-DPB1*99:99:01:08" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83009" name="HLA-DPB1*99:99:01:09" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83010" name="HLA-DPB1*99:99:01:10" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAGAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83011" name="HLA-DPB1*99:99:01:11" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAGAAAAAATAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83012" name="HLA-DPB1*99:99:01:12" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAGAAAAAATAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83013" name="HLA-DPB1*99:99:01:13" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAGAAAAAATAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83014" name="HLA-DPB1*99:99:01:14" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAAGAAAAAATAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83015" name="HLA-DPB1*99:99:01:15" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83016" name="HLA-DPB1*99:99:01:16" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>AAAAAAAAAAAAAAAAAAATAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAA</nucsequence>
+      <feature id="514.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="2" />
+     </feature>
+      <feature id="514.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="3" end="4" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="514.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="5" end="6" />
+     </feature>
+      <feature id="514.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="7" end="8" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="514.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="9" end="10" />
+     </feature>
+      <feature id="514.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="11" end="291" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+    </sequence>
+  </allele>
+  <allele id="HLA83017" name="HLA-DPB1*99:99:01:17" dateassigned="2018-06-18">
+    <releaseversions firstreleased="3.99.1" lastupdated="3.99.1" currentrelease="3.99.2" releasestatus="Sequence unchanged" confirmed="Unconfirmed"/>
+    <locus genesystem="HLA" locusname="HLA-DPB1" hugogenename="HLA-DPB1" class="II" />
+    <cwd_catalogue cwd_version="2.0.0" cwd_reference="http://doi.org/10.1111/tan.12093">
+       <cwd_entry population="Undefined" status="Undefined" />
+    </cwd_catalogue>
+    <cwd_catalogue cwd_version="3.0.0" cwd_reference="http://doi.org/10.1111/tan.13811">
+       <cwd_entry population="None" status="Undefined" />
+    </cwd_catalogue>
+    <hla_g_group status="DPB1*01:01:01G"/>
+    <hla_p_group status="DPB1*01:01P"/>
+    <sourcexrefs>
+      <xref acc="LT992004" />
+    </sourcexrefs>
+    <sourcematerial>
+      <species latinname="Homo sapiens" commonname="Human" ncbitaxon="9606" />
+      <ethnicity>
+        <sample_ethnicity>Caucasoid</sample_ethnicity>
+      </ethnicity>
+      <samples>
+        <sample name="J0528239" />
+      </samples>
+    </sourcematerial>
+    <sequence>
+      <alignmentreference allelename="DPB1*01:01:01:01" alleleid="HLA00514" />
+      <nucsequence>TAATCCCTGTAGATGGGCCAGCAGAATATTTGAGATCACCTTCAGAGCAAAGAAAACGCATAATCTCCCCAAACATCATGACTTATCTGACTGGTTAAAATGAGTATCACTGTCTTTCCTCCGTCATCTTAAGTGCATCACAGGCTTTATATTTTCAGACCTTTCATACTAACTTTCTGCCTAGTGAGCAATGACTCATACAAAGCTCAGTGTCCATTGGTTCTTTTCTCAGACTCTGTCCAATCCCAGGGTCACAGAAGACTACTTGGGTTCATGGTCTCTAATATTTCAAACAGGAGCTCCCTTTAGCGAGTCCTTCTTTTCCTGACTGCAGCTCTTTTCATTTTGCCATCCTTTTCCAGCTCCATGATGGTTCTGCAGGTTTCTGCGGCCCCCCGGACAGTGGCTCTGACGGCGTTACTGATGGTGCTGCTCACATCTGTGGTCCAGGGCAGGGCCACTCCAGGTAAGAGCCGAGCTGCCATTCTTGGAGGGTCTGGCTCAGGGAACAATTCCTAGGGGACGTTATCTTTAAGGGATCAAATTCTGAGACAGGCTGCGGGGGCTCCTGCCCTAAGGCAGTGTCCTCTCTTCCCAGCTAGAGAAAGAGGTTCATCCCCTATAGGATAGCTTGCTACCCTACTGGCCTATTCTCTCTCCAAGGACATGGGTACAGTAAACAGAGAGAGGTGCCCAGTGGTCAGTATGCTTGTCTTTGGGAAAATGGGACCAAGAGGTCCAGGATAACCTTGGACAGACAAGGTTTGCAGAGAGAGAAGTTGGCAAGTGCAGGCTCCTGGGCGTGTTCACATCTGCATCCAGCCTGGAGGGGACTCAGGCAGAGAGCCCTAAGCTGGAGTGTCCAGGCTCTGAGGATCACTGAGGATTCAGTGCTCACGAAGAATGCCTCTTATTCCCCAGGGTGGAGCAGGAGCCCACACCCCTTGGACAATTAAGGAGAGAAGGGAGGGAGGGGGATAGGTTTTAGCCCCTGAAGGCATTCTCATTAAAGGTACTTCTCCCAGCCTCCCCAGAACTTGGTTAGGGTACTAGAGTGGGTTGCGACTTGTAGGAAGAATGAGATGAGGTTGTGTGGGTGCATGACAGGGATTGAGTGTAGGTTATCAGACAGCCAAGGAAGCAGTAACCAAGTGAAAAATCTCTTCTTCCTGCTGCCTCCCTGTGGCTGGTGTAATATTATGGCATCTATGATCCATTGTTTTTCTCTCAGGATACTCTCAGGATATTTCTTTTTATATATATATATACTTTAAGTTCTAGGGTACATGTGCACAACGTGCAGGTTTGTTACATATGTATACATGTGCCATGTTGGTGTGCTGCACCCATTAACTCGTCATTTACATTAGGTATATTTCCTAATGCTATCCCTCCCCCCTCCCCCCACCCCACAACAGGCCCCGGTGTATGATGTTCCCCTTCCTGTGTCCATGTGTTCTCATTGTTCAGTTCCCACCTATGAGTGAGAACATGTGGTCTTTGGTTTTTTGTCCTTGCAATAGTTTGCTGTGAATGATGGTTTCCAGCTTCCTCCATGTCCCTACAAAGGACATGAACTCATCCTTTTTTATGGCTGCACAGTATTCCATGGTGTATATGTGTGCATTTTCTTAATCCAGTCTATCACTGATGGACAGTTGGGTTGGTTCCAAGTCTTTGCTATTGTGAATAGTGCCGCTATAAACATATGTGTGCATGTGTCTTTATAGCAGCATGATTTATAATCCTTTGGGTATATACCCAGTAATGGGATGGCTGGGTCAAATGGTATTTCTAGTTCTAGATCCTTGAGGAATTGCCACACTGTCTTGAGATACCATCTCACACCAGTTAAAATGGCGATCATTAAAAAGTCAGGAAACAACAGGTGCTGGAGAGGATGTGGAGAAATAGGAACACTTTTACTCTGTTGGTGGGACTGTAAACTAGTTCAACCATTGTACTCTCAGGACATTTCTAGTCCAAATTTACACCAACACTCTGAGAGGAAGGACTGCAAAGTAGGTACCTTAGTTTTCCACTGACTTCCACTTTTCCTGCTTACACCCTTCCTCCTAGACCTCTCCACACCCCTCCTAGGACACACCTAGAAGGTACTGACATCATGTCACCTCCTCATCTTTCAGGGTAGCAAGGTTGGAATCTCCTGAATACAGCCCCTCAAGCCCTAAAACCTCTTATCTATTACCTTGGGTTCATTGTCCAGGAAGGGGAGGAGAACTTGAACTTGTAGTCACAGAAGGGTGCTGAGAACTAACCAGCAGGACGGCTCAGCCCTGGGAACTGCAGAGGGGTGAGGCTGGGGAGAGAGGAGGCTGGAGCAGCACTGGTGACACTGAACAGTGTCAGGAGGAAGTGACGGATGCAGCGCCCCCATCCCATAGGCAGAGCTGTCATGTGGGATGAGGGACAGTGTTGGGAGCCACCAAGGAAACCCAGAGGTGGGGGAGCAGAGAGCAGAAGGGGGCATGTGATGCTGGGCAGTGAAAGGGAGGACAGGCAAAGGCTGGGTTGAGGTTTGTAGGGGGAATGAGATGAGGCAGTGGAGCCATGTGACAGGGACTGAGGGTAGATTACTGGAGCTCCCTGCGTAGAATGAATGTTCAATCAAAACCTGCTGGAGGGAGAGCTGGAGCCATAGGGGAGTGGGTAAAGTGGGCAGGGTTGATTCCACAATTCCCTGCATGCTCCCCCAACTCCACACACATCCCCAACCTCAAACAGGGCACAAGACCAAAGGGCTGAGGAGCCAGGCTATAGCTTAAAGAGGCTGGGGGAGAAAAGCTTGGCTGAGACAACCCATAGGGAGCTAGAGGTTTTTAATATATCCTATTCTGAATAAGAGACGAATTCATTCAGATCAGTGGTTTCAAACCGTGCTCTGGGCAACTCAATTGCTAAGGGTTCCACAAACAGGATAAAGTTTCTTATATACAAAAAAAATGAAGGTTTCAAATTACACCATAAAACCCCTCATTGCTTATGTCTACTTGGCAGGTAAAATTCCATTTCAAAAGTTAAATGTACTTAAAAAATTACCTAAGACTGGGTAAATTAAAAAAATTAAATGTTGCAAAGAAAAAATTCAAAATTCTTATTCTTGAATGAAAAACGTTCTCTTACTGGTGATTGAGGAGGAGAAACAAAGACTAACAAATGAAAATGGGAGAATCCACACTCAGAGTGGGGCAATTGAACAGGCAGGGGCGGATGGATGGCAGAGGAGGAGGAATCTGGACTCAAGGAGCTGGGGGGCTCTGGGCCTGGAATTTCAGGGTCTGGGGCCCAAGGCACCAGGAGAAGAGGCAGGTCAGGATATCTGAGTCAAGACCTGGGATCTTGCCTTAGCAATGACACTGGAGACTAAAGGTGGACTCCATGGTGCCCTTGAGCCCAGCCCTACCCCATCTCCACTATCCTCTGCCACCAGCTGTGCAACTTCTGCTAGGGGTGAGGTTAATAAACTGGAGAAGTTAATTTGTGGAGCATGAAACAGATGAGCAGAACAATCACAGCACCTTAATTTCCCCAGTGTGCCCAAGAACAGAGCAGGCCTGAAGACACTCAAACAGAAACAAACATGTGCCGTGTCACTGATAATTCTGTGTAGACACACACCTGCCAGACACTGCTCATGGCACTCCCTAGGAAGAACAGCATGTGGGAAAGGCTGCCAAAATTGTTCATGTAAAAATTACATCAATGCTGTCTTCCTCGGTGCTGCCTATGCAGCTGGCAGCCATCTCTTCCTCCACATCATGGCCTCCCTCAGACTCCTCATGAAGGATAAGATCCTCAAAAAGAGGACCAACAAGTTCATGAGGCACCAATCAGACTGAAATGTCAAAATTAAGCATAACTGGCGGAAACCCAGAGGTCTTAACAGTAGGGTTCGTAGAAGGTCCAAGGGCCAGATCTTGATGCCCAACATTGCTTATGGGAGCAACAACAACAACAAAAAACACATGCTGCCCAGTGGCTTCCAGAAGTTTCTGGCCCACAGCCTCAAGGAGCTGAAAGTGCTGCTGATGTGCAACAAATCTTACTGTGCTGAGATCGCTCACAAAATTTCCTCCAGAACTGCAAAGTCATCATGGAAAGAGTCACCCAGCCGGCCATCAGAGTCACCAACCCCAGTACCAGGGTGCACAGCTAAGAAAATGAGTAGAAAGTTCATGTCCACGTTTTGTGTGTAAATAAAACCATAAAAACTGCCAAAAAAAATTACATGAATGCCTCTAAACCCAAAGGACTCTACCCCCACAGGTCCCTGGTTGTTGTGGTGATTTTCATTGTGTAAAATACTTTCCACATCTTTTGACACCAAGTCTTTCTGCAGCCATGTTTGAAAATTAACTTTCAGGCTACAGAGTCTTTCTTATACCAAAGTTGAAGAAAGTTTTAAGAAATATATTTCTACATCTCCTACATGCAAAACAACAGGAGCAAGTTGAGGAATTCTCAAGAAACTGGTCGAGAAGAGAGAGCGCTTAGCTATGGAAAAGAGAAAGAAGGAAGGGAGGGCTTCCTGGAGGAGGTGGCATTTGAACCAGGACTGACATCAGGATGGAAATGTCAGTCAGGGAGTTAAGTAGGGGGAGCAGCTCCGCCCTCCACGTCCCCAGCTCCTCCCGCCCCTGTTTTTTCTCCCAGTGACCCCACGTGAAACGTCTCCGCCTCCTCCAGCCACCAGCAGAAGGGACTGCCTTCCCCTTAGTGCTCGCCCCTCCCTAGTGATCACTCAGTGCCCCTGAGCTCATTCTTTTCAGTAAATTCTCTCTCTGCGTGGTGAGAAAACAGGCCTGGAGAGGCTCTGCGACCCGCTTAGGACCACAGAACTCGGTACTAGGAAAACTCCTATTTTAAAATCCAGCCCTGAGTGGGAAGATTTGGGAAGAATCGTTAATATTGAGAGAGAGAGGGAGAAAGAGGATTAGATGAGAGTGGCGCCTCCGCTCATGTCCGCCCCCTCCCCGCAGAGAATTACGTGTACCAGTTACGGCAGGAATGCTACGCGTTTAATGGGACACAGCGCTTCCTGGAGAGATACATCTACAACCGGCAGGAGTACGCGCGCTTCGACAGCGACGTGGGAGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGCTGCGGAGTACTGGAACAGCCAGAAGGACCTCCTGGAGGAGAGGCGGGCAGTGCCGGACAGGATGTGCAGACACAACTACGAGCTGGACGAGGCCGTGACCCTGCAGCGCCGAGGTGAGTGAGGGCTTTGGGCCGGCGGTCCCAGGGCAGCCCCGCGGGCCCGTGCCCAGGGCGCAGGAGCAGCCGGGTTGGCCTAAGGGACCTTAGTGCCGGGCGGAAAGGGGACTTTGGGTTGGGGATTCATGGGGGGAGCCCATCTGGAGCTTGTCAGGGGAGCGAGCGCGGGGACCTGGACTGGGCTGAGCATGGAGTGAGGAGGACGGGAGCAGAGAGACCCCGGGGACTTCATCAGGCCTGGCAGCTGACTGCATGTGGGGTGAAAAAAAGGAAGCCACAGGACAGCGCACAAGGGTATGGTGTGGAGATGGAGGTGGAGATGGCACAGCAGGCCACACAGAGAAGAAACCTACAGGGAGTTAGCTGGGTTTGAGGTGCTTGAGGGGCAGATGGGTGGTCTGATGGGCAGGTAGACAGAAGGGTCTGCAGCCGGGGAGGAGACTGAGATACATGAGACCATCCAGGGAGAGGGGACCCAGGGGGAAGAGCAAAGGACTGGATCCTGGGAACTGGACAGTTGTGATTTGGCCAAGACAGAAAAGCCTGTGAAAGAGACCAATAAAACCCAAGTGCAGTGTGAGGAGAGGCCCGCAGAGAAGAGTCTTGGAAGCTGAGGGGAGGTGACCTCAGCAGCACAGTGGACAGCGGTGCCAGTGACTTGGGAAGGTCAGAAAACAGAAGATGGAAAGTGGGTTTGGAAACCAGGGAGACCTGGGGAGAGCAGGTTGGCCGCAGCGGCAGGAGCTGGAATGGGAGGGGGTGCATGAGGCTGAGTGTGGCGCATCCTCCTCGGGGCTGAGATGGATTTTACTTGTCTTGGGTTCCCCACGGCTGTCACAGGGCAGTGTCTGAGTTCATTCGTCTTTTTCCTTCAGGAAGTCTGGGTGTAAAGGGATGGAGAGAGGTGAGGTGTGTGCAGTAAGAGGATTTCTCAAGGATGGGACAGGAAGGCCTTGGAGCTTTGGCTTCCTCCTGTGAACTTGTGGGGTGGGGAGCCTGGTGCACCAACCTTTGGGACTTGAGGGAGTAGTATCAGGATGTGGGATTGAGCCCTGGACCTTTTTTCTAGAAAGAGGAAAAAAATGAAGGGAGGAGGAGGAGGAAGCTGGGGAGATCACACCTTTGATTTTCTTGTTCCTGGAAAGTGAAAGGAAGTTCACCTGCTATGAGTGAGAAGGTGGACACACTGGGTGGGGATGAGGTGAGTGACATGAGCTTAGGAAAGTTGCTGAGGTAATTGGTTGAGAGAGGTGTTCAAATAAAAGTAATGCAATTGGCAAAAACTGTTACTAAGACTTTGTAGAGGCACAAATCAGTGACATGGCAGCATCTTCTTTCACAGTAATCAACTGCCAGATTGCAGGGAGCACTGATACCAGCCTAAGGAGTGTGAGTTTCTCCTCTAGGCCCACAGGTCCCCAACCTCACTCCTCCGAAGACTCTACTGGAGATCATCTGTGATGCGCAGATACCCAGACTCACTGCCCCGAGACTCAGATTCCCTGGGTGGGGAGGTCTGGGGATCTCTGCTTGTAATCAGCTCCCTAGAGGTTCCCATGTAGCCGGATAAGTATTGTCAGAACACTGAAGATTTTTGAAAAATGAAAAAGAGAAGGTTGGAGATGTGTCTTCAGAAGACTACTAAGGGTGCTGGGTAGAGGAGGGACCAGAGGCAGGGAGATGAGGTAGGAAACTGCTATTATTTGTCAGGGAAATTGCAATCAAGAAATGAGTTAGAACAGGGAAAACACAGAGGCAGGGGAGAGGTGGAAGGGGGAGGAAAGGAGTAGTGACAATTCCAGGGTGTATGCTCACCCAAATCTAGAAGTAATTGAGCAAATGTTTTCTGGGCATTAGAGAAGGCAACTAGAACAAACAGGAATCCTTGCCTTGGTGAAATGTATTTGAACTGGGTCAGAAATGAGGCCATTGGGTATCAAGCCTTAACTCCAGCGCCCCCTGGAGGTCGCTGATGTGGCTCCAGGCTGACCTGCTCCTGTCAAAGAATATTGAGCAAGATGCCTCTCATGGAATGTTCTGGGACCTTAAAACAGATACCCAAGTATTCCCCCTGATTTCATGGTTCCCAGAAGCTCTATGGGGAAGAAATTGTACGTAATTCACAACTGAGATTTAGACATAAGTTGAATAGTGTAATGGACGTTGAGTTAACCGAGGTAATGAAGTAGTGAGACACAGGTGCCCCTGAAATAAACTCACATTGAGGGAAGAGGCTGACAATGTGGATCAGTCTGTAAACAAGGCAAAAATACAATAGGGAGTAAGGGTTGTGTGTCAGTTCAAGACTGTACTTTTACCTGGCCCAGCGCCATGTTGGGGTATTTGTGTTCTCCAGGAAGTAGAAAGGAAAGAACTGAGTGATTAGGGACCTAGAAGACTAATTTGAGACATTCCTCTTGATGAACTGTTCTCTAGGGTAGTCCTCTGAAAGAGCTGTTCTCTAGTGGATCTCCCTGAATGAACTGTTCTCTAGGAGCACTTGACCCTTTTCTGTGTTTGTTTTTTGTTTTGTGTTTGTGTTTGTTTTTGAGACAGGTTCTCGCTCTGTCTCCCAGGCTGGAGTGCTGTGGCGCCATCATGACTCACTGCAGCCTCAACCTCCTGGGCTCAAGTGATCCTCCTGCCTCAGCCTCCCATGTAGCTAGAACTACAGATACATGTACCACCATGTCTGGCTAATTTATTTTTCTTTTTAGAGATGGGTTCTCACTATGTTGCCCAGGCTGGTCTCGAAACCCTGGGCTCAAGTGATCCTCACGCCTCAGCCTCCCAAAGTGCTAAGATTATAGGCATGACCACCATGCCTGGCCTTTTCTGCCTTCCGAGAAGGAAAAAGGTACTGGTGGCAGAGATCCAAAAGAAAAGTTGCCAGTGGCAGTGTGGAAATTGACCTGAGAACAACAGAACAAGCTGGGGCACAAATGCAAAGATGCAGAGGGAGGCAACATCTGGTTATCTGTGAGACCTTCATGGGACCTGAAGACACATCCTTTTGGAAAAGGATGGGATTTCTACTACTCAAGCATGTAGGGGCTCAGGATATTATGTAAATATGAAGATTTTGAGTTTTTGTAAGTGAGGTAAAAAAAATACCCAGGTTATTTACAGAATAAGACATGTCAAGCTCTCTTCATTTTCTTTGTATTTTCATGAAATAAAGGTATTAGATTAACAGGCCACCATAATGCCATTGTCTGTATATCTTAATTTCAAGATATTATTTGAGTAATTTTTGCATCCTTTGTATCAAGATAGAACTTTGAAAAGACAGGTAATTTCACAGTTGATTAAATATTCTTTGCCCAAATTACTTTTGGTTAAAATTTCTCCTATATGTGCTACAGAGTGCAAACTCTGTCTCCCTGCCATTCCGCTATATACTTACTAATTATTATTTTATTCAAGATCATGCATGCTCTACTTGAAGGTCTATCTTTTCAGTGCTACCCTTACCCACTAGCCTAATCACATTATATCTATTTTCAACATCTAGGAATCAATTACGTAGTGAACATGCCTAAGAAATAATAATCTGGGCAGATGCAGTGGCTCAGGCCTGTAATCCCAGCACTTTGAGAGGCTGAGCGGGTGGATCACTTGAGGTCAGGAGTTGGTCAAGTGCTCCTAGAGAACCAGCCTGACCAACATGGAGAAACCTTGTCTCTACTGATAATACAAAAATTAGCCAGGTGAGGTGGCAGGCACCTATAATCCCAGCTATTCGGGAGGCTGAGGAAGGAGAATTGCTTGAACCCCTGAGGTGGAGGTTGCAGTGAGCCAATATTGCGCCACTGCATTCCAGACTTGGCAACAGAGCGACACTCCACCTCAACAAAAAGAAAGAAAGAGCGAGATTACGTCTCAAAAAAGGAAGGAAGGAAGGACAATCTCAAATGCTATTTCATTATTTTCCTTCCCCACTCGTAGTCCAGCCTAAGGTGAACGTTTCCCCCTCCAAGAAGGGGCCCCTGCAGCACCACAACCTGCTTGTCTGCCACGTGACAGATTTCTACCCAGGCAGCATTCAAGTCCGATGGTTCCTGAATGGACAGGAGGAAACAGCTGGGGTCGTGTCCACCAACCTGATCCGTAATGGAGACTGGACCTTCCAGATCCTGGTGATGCTGGAAATGACCCCCCAGCAGGGAGACGTCTACATCTGCCAAGTGGAGCACACCAGCCTGGACAGTCCTGTCACCGTGGAGTGGAGTGAGTCTCTGATGACCGTCTAGACCCCACCTCTGAAGAGCAGGGGACTCTCTGGCTCTGGGGTCCACTCATCTTATCTTCTGCATCTATACCCTGGGGCCATGTCCAAACCCCATCTTTCTTCTATACCAGCTCCTGAGCATAGTTTGAAGCCAGGGCAATGGAGACTTCCTGACCTTGGCTTAGGGGTTCCTGAAGATTCATAGTTCTCCCCCTTGTCAGAGAATCTAGGGACACTGGCTGATCTCGAAACCCTCACACACAGGAACTGACCTCACACATAGGAACAGTTCTCTTCTTTCAGCATTTTAGCCTCTTCTCAGGCATTTTGAGAGGCAACTTCTAGAATCAGCATTTGCCACCTTGTTGAGGTCACACCCCTGTTCCGGACATGAGGGTGGCTCTTTCTGAATTTCCTCTTAGCAAGCTTTTTCCCCTGCACTGTCTTCATCCCGATATTCTGCATCACGCTCCAGAATCTCAGACAGGACATGAGTAGGGATGCAGCTGGTGGAGGTGACACTAAACCTGGGTCTGTCCTTCCCAGAGGCACAGTCTGATTCTGCCCGGAGTAAGACATTGACGGGAGCTGGGGGCTTCGTGCTGGGGCTCATCATCTGTGGAGTGGGCATCTTCATGCACAGGAGGAGCAAGAAAGGTGAGAAAGCCTGCAAGGTGAGCGGGACCTACCTTCCCCTGGCATATTCACACTTACTCCATGATGAGGGTTCAGACAGAAAAGAAATGTCAGAAAGCTCTAGAGACCACTGAAATCAGATAGTCGGGGAACAAACATGACCTATGGCGAGAGGGGGATCCCAGGCTGGGATCTTAATGCAGCCAGATGCATGAGGTCCCAGGTGCTCAGACTCCTGCGGGGCATCCATTGAGTGGTGGTCAATGGAATTTGGTGGGATGGAAATGTTTCTCTAACTATCTGAGGTGGTTTCAATGGCTGAATACATAACCTTTCCTCTTTCATTTCAGTTCAACGAGGATCTGCATAACAGGTAATATTCCTGCTTTGATTTCCTTGGGGGGTGGGTTACAGGAGGATATGACTCCTTTCTGTGCATTGTAATACTGAGGCTCCTCCAGGAAGGGAATCTCAGGCATGAACCCCTCTTTCAACCTCAGCTCTCGGGTGAGTAGGGAAAAAGCATTGCACGGCTCCATTGCTGAAGGAAGCAGAGATCAGTTCTGTTCTTTATCAGCCTAAGATGCAGCCTCTCACCATAATTTTTCTCTCCTGGACTTAAAGGAAGGAGGCCAGCAACCTGGGATAACTTGTCCTTTACCCCCACAGGGTTCCTGACCTCACCGAAAAGACTAATGTGCCTTAGAACAAGCATTTGCTGTGTTTTGTTAGCACCTGGTTCCAGGACAGACCCTCAGCTTCCCAAGAGGATACTGCTGCCAAGAACTTGCTCTGAAGTCAGTTTCTATCGTTCTGCTCTTTGATTCAAAGCACTGTTTCTCTCACTGGGCCTCCAACCATGTTCCCTTCTTCTTAGCACCACAAATAATCAAAACCCAACATAAGTGTTTGTTTTCCTTTAAAAATATGCATCAAATCGTCTCTCATTACTTTGAGGGTTTTAGTAAACAGTAGGAGTTAATAAAGAAGTTCATTTTGGTTTACACATAGGAAAGAAGAGAAGCATGAAAGTGGAGATATGTTAACTATTGTATAATGTGGCCTGTTATACATGACACTCTTCTGAATTGACTGTATTTCAGTGAGCTGCCCCCAAATCAAGTTTAGTGCCCTCATCCATTTATGTCTCAGACCGCTATTCTTAACTATTCAATGGTGAGCAGACTGCAAATCTGCCTGATAGGACCCGTATTCCCACAGCACTAATTCAACATATATCTTACTGAGAGCATGTTTTATCATTACCATTAAGAAGTTAAATGAACATCAGAATTTAAAATCATAAATATAATCTAATACACTTTAA</nucsequence>
+      <feature id="19102.1" order="1" featuretype="UTR" name="5' UTR">
+        <SequenceCoordinates start="1" end="366" />
+     </feature>
+      <feature id="19102.2" order="2" featuretype="Exon" name="Exon 1" status="Complete" >
+        <SequenceCoordinates start="367" end="466" />
+        <cDNACoordinates start="1" end="100"  readingframe="1" />
+     </feature>
+      <feature id="19102.3" order="3" featuretype="Intron" name="Intron 1">
+        <SequenceCoordinates start="467" end="5000" />
+     </feature>
+      <feature id="19102.4" order="4" featuretype="Exon" name="Exon 2" status="Complete" >
+        <SequenceCoordinates start="5001" end="5264" />
+        <cDNACoordinates start="101" end="364"  readingframe="3" />
+     </feature>
+      <feature id="19102.5" order="5" featuretype="Intron" name="Intron 2">
+        <SequenceCoordinates start="5265" end="9215" />
+     </feature>
+      <feature id="19102.6" order="6" featuretype="Exon" name="Exon 3" status="Complete" >
+        <SequenceCoordinates start="9216" end="9497" />
+        <cDNACoordinates start="365" end="646"  readingframe="3" />
+     </feature>
+      <feature id="19102.7" order="7" featuretype="Intron" name="Intron 3">
+        <SequenceCoordinates start="9498" end="10044" />
+     </feature>
+      <feature id="19102.8" order="8" featuretype="Exon" name="Exon 4" status="Complete" >
+        <SequenceCoordinates start="10045" end="10155" />
+        <cDNACoordinates start="647" end="757"  readingframe="3" />
+     </feature>
+      <feature id="19102.9" order="9" featuretype="Intron" name="Intron 4">
+        <SequenceCoordinates start="10156" end="10484" />
+     </feature>
+      <feature id="19102.10" order="10" featuretype="Exon" name="Exon 5" status="Complete" >
+        <SequenceCoordinates start="10485" end="10504" />
+        <cDNACoordinates start="758" end="777"  readingframe="3" />
+     </feature>
+      <feature id="19102.11" order="11" featuretype="UTR" name="3' UTR">
+        <SequenceCoordinates start="10505" end="11461" />
+     </feature>
+      <feature id="19102.12" name="Translation" featuretype="Protein">
+        <translation>MMVLQVSAAPRTVALTALLMVLLTSVVQGRATPENYVYQLRQECYAFNGTQRFLERYIYNRQEYARFDSDVGEFRAVTELGRPAAEYWNSQKDLLEERRAVPDRMCRHNYELDEAVTLQRRVQPKVNVSPSKKGPLQHHNLLVCHVTDFYPGSIQVRWFLNGQEETAGVVSTNLIRNGDWTFQILVMLEMTPQQGDVYICQVEHTSLDSPVTVEWKAQSDSARSKTLTGAGGFVLGLIICGVGIFMHRRSKKVQRGSA</translation>
+      </feature>
+    </sequence>
+  </allele>
+</alleles>
