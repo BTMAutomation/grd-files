@@ -1,0 +1,25 @@
+# file: hla_nom.txt
+# date: 2022-09-19
+# version: IPD-IMGT/HLA 3.99.2
+# origin: http://hla.alleles.org/wmda/hla_nom.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+DPB1*;01:01:01:01;20190228;;;
+DPB1*;9999:01;20190228;20190228;9999:01Q;Sequence identical
+DPB1*;9999:01Q;20190228;;;
+DPB1*;9999:02:01;20190228;20190228;9999:02:01Q;Sequence identical
+DPB1*;9999:02:01Q;20190228;;;
+DPB1*;9999:03:01:01;20190228;20190228;9999:03:01:01Q;Sequence identical
+DPB1*;9999:03:01:01Q;20190228;;;
+DPB1*;9999:04Q;20190228;;;
+DPB1*;9999:05:01Q;20190228;;;
+DPB1*;9999:06:01:01Q;20190228;;;
+DPB1*;9999:07Q;20190228;20190228;9999:07;Sequence identical
+DPB1*;9999:07;20190228;;;
+DPB1*;9999:08:01Q;20190228;20190228;9999:08:01;Sequence identical
+DPB1*;9999:08:01;20190228;;;
+DPB1*;9999:09:01:01Q;20190228;20190228;9999:09:01:01;Sequence identical
+DPB1*;9999:09:01:01;20190228;;;
+DPB1*;9999:10;20190228;;;
+DPB1*;9999:11:01;20190228;;;
+DPB1*;9999:12:01:01;20190228;;;
