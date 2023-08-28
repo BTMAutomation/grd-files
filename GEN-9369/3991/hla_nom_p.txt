@@ -4,7 +4,7 @@
 # origin: http://hla.alleles.org/wmda/hla_nom_p.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom_p.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
-B*;07:02:01:01;07:02P
+B*;07:02:01:01/15:931/15:937:01/15:936:01:01Q/15:937:01Q;07:02P
 B*;99:99:02:01/99:99:02:02;99:02P
 B*;99:99:05:01/99:99:05:02/15:910:05;99:05P
 B*;99:11:01/99:11:02N;99:11P
@@ -13,5 +13,3 @@ B*;15:920:15;99:15P
 B*;99:16:01;99:16P
 B*;99:20:01N/99:20:02/99:20:03;99:20P
 B*;99:21:01;99:21P
-B*;15:931;15:931P
-B*;15:936:01:01Q;15:936P
