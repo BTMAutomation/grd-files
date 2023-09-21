@@ -1,0 +1,11 @@
+# file: hla_nom.txt
+# date: 2023-07-12
+# version: IPD-IMGT/HLA 3.53.0
+# origin: http://hla.alleles.org/wmda/hla_nom.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;01:01:01:01;19890801;;;
+A*;99:99:99:01;19890801;;;
+A*;99:99:99:02;19890801;;;
+A*;99:99:99:03;19890801;;;
+A*;99:99:99:04;19890801;;;
