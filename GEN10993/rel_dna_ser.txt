@@ -1,0 +1,31 @@
+# file: rel_dna_ser.txt
+# date: 2022-08-18
+# version: IPD-IMGT/HLA 3.99.1
+# origin: http://hla.alleles.org/wmda/rel_dna_ser.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/rel_dna_ser.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;01:01:01:01;1;;;
+A*;999:01:01L;1;;;
+A*;999:01:02L;1;;;
+A*;999:02:01N;1;;;
+A*;999:02:02;1;;;
+A*;999:03:01;1;;;
+A*;999:03:02N;1;;;
+A*;999:04:01N;1;;;
+A*;999:04:02:01N;1;;;
+A*;999:05:01N;1;;;
+A*;999:05:02:01N;1;;;
+A*;999:05:02:02;1;;;
+A*;999:06:01N;1;;;
+A*;999:06:02L;1;;;
+A*;999:07:01N;1;;;
+A*;999:07:02:01L;1;;;
+A*;999:07:02:02;1;;;
+A*;999:08:01N;1;;;
+A*;999:08:02:01N;1;;;
+A*;999:08:02:02N;1;;;
+A*;999:09:01N;1;;;
+A*;999:09:02:01L;1;;;
+A*;999:10:01N;1;;;
+A*;999:10:02:01N;1;;;
+A*;999:10:02:02L;1;;;
